@@ -4,3 +4,4 @@
 4.comparar con otra fuente
 5.concluir
 6.publicar
+7. nota.10/10
